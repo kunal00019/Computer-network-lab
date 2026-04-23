@@ -1,1 +1,1 @@
-
+Experiment 3 Develop a network simulator to analyze packet delay, loss, and end-to-end throughput. Implement various routing algorithms and measure their impact on network performance under different traffic conditions.
